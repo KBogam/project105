@@ -1,0 +1,15 @@
+.heading{
+    font-size:30px;
+    width:80%;
+}
+
+#camera{
+    border:1px black solid;
+    border-radius: 5px;
+    height:250px;
+    width:350px;
+}
+
+#resultObjectName,resultObjectAccuracy{
+   color:blue;
+}
